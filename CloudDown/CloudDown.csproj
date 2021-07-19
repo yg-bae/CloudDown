@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ApplicationIcon>Arrow-Down.ico</ApplicationIcon>
+    <StartupObject></StartupObject>
+    <Company>LG Electronics</Company>
+    <Copyright>yg.bae@lge.com</Copyright>
+  </PropertyGroup>
+
+</Project>
